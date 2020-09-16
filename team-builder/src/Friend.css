@@ -1,0 +1,14 @@
+.form {
+    display:flex;
+    justify-content: space-evenly;
+    border: 1px solid blue;
+    margin: 5%;
+    padding: 5%;
+}
+
+.friend{
+    border-radius: 35px;
+    background: greenyellow;
+    margin-bottom: 40px;
+    padding: 20px;
+}
